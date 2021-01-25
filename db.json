@@ -1,0 +1,24 @@
+{
+    "bg": "https://i2.wp.com/css-tricks.com/wp-content/uploads/2017/06/css-is-awesome-scaled.jpg?resize=1536%2C1208&ssl=1",
+    "title": "Título do Quiz",
+    "description": "Descrição do seu quiz aqui",
+    "questions": [
+    ],
+    "external": [
+    ],
+    "theme": {
+        "colors": {
+            "primary": "#673ab7",
+            "secondary":"#ff1744",
+            "mainBg": "#482880",
+            "contrastText":"#f3e5f5",
+            "wrong": "#d50000",
+            "success":"#b388ff"
+        },
+        "borderRadius": "4px"
+    }
+    
+    
+}
+
+
